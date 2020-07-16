@@ -22,7 +22,7 @@
     ],
     "require": {
         "kartik-v/yii2-krajee-base": ">=2.0",
-        "kartik-v/bootstrap-popover-x": ">=1.4"
+        "mihalydanis/bootstrap-popover-x": "dev-master"
     },
     "autoload": {
         "psr-4": {
