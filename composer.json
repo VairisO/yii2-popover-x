@@ -20,9 +20,15 @@
             "homepage": "http://www.krajee.com/"
         }
     ],
+    "repositories": [
+        {
+            "type": "vcs",
+            "url": "https://github.com/mihalydanis/bootstrap-popover-x.git"
+        }
+    ],
     "require": {
         "kartik-v/yii2-krajee-base": ">=2.0",
-        "mihalydanis/bootstrap-popover-x": "dev-master"
+        "kartik-v/bootstrap-popover-x": "dev-master"
     },
     "autoload": {
         "psr-4": {
