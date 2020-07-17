@@ -34,10 +34,5 @@
         "psr-4": {
             "kartik\\popover\\": "src"
         }
-    },
-    "extra": {
-        "branch-alias": {
-            "dev-master": "1.3.x-dev"
-        }
     }
 }
